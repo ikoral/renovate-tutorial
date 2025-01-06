@@ -3,5 +3,5 @@
   "extends": [
     "config:recommended"
   ],
-   "prHourlyLimit": 12
+   "prHourlyLimit": 3
 }
